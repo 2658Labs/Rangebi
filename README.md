@@ -5,7 +5,7 @@
 >    Use `pip install -U Rangebi` or `pip install Rangebi==x.y.z` x.y.z is the latest version
 >
 
-## Rangebi
+## Rangebi (रंगेबी: Marathi/Hindi) ~= Colourful
 
 <P>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A package for python artists who are fond of making cli applications and used to with bootstrap classes.
