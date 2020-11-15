@@ -1,4 +1,5 @@
-from rangebi import Rangebi
+
+from Rangebi import Rangebi
 
 rangebi = Rangebi()
 
