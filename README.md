@@ -15,7 +15,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made with :heavy_heart_exclamation: using Python3.
 
-[![PyPI version](https://badge.fury.io/py/rangebi.svg)](https://badge.fury.io/py/rangebi) ![PyPI - Downloads](https://img.shields.io/pypi/dm/ragebi)
+[![PyPI version](https://badge.fury.io/py/Rangebi.svg)](https://badge.fury.io/py/rangebi) ![PyPI - Downloads](https://img.shields.io/pypi/dm/Ragebi)
 
 </p>
 
@@ -76,7 +76,7 @@
 - https://github.com/2658labs/Rangebi/issues
 
 
-### Special Thanks To Covid19India
+### Special Thanks
 - Colorama
 
 
