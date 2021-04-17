@@ -15,7 +15,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made with :heavy_heart_exclamation: using Python3.
 
-[![PyPI version](https://badge.fury.io/py/Rangebi.svg)](https://badge.fury.io/py/rangebi) ![PyPI - Downloads](https://img.shields.io/pypi/dm/Ragebi)
+[![PyPI version](https://badge.fury.io/py/Rangebi.svg)](https://badge.fury.io/py/rangebi) ![PyPI - Downloads](https://img.shields.io/pypi/dm/rangebi)
 
 </p>
 
